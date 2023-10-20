@@ -17,8 +17,8 @@ The data was to be converted into ![*Long data*](  ) from **Wide data**. The ana
   Original:![image](https://github.com/HimAgarwal-Git/ProjectPortfolio/assets/146741762/e2238e22-5be4-4822-9d96-be604a8178b2)
   Converted:![image](https://github.com/HimAgarwal-Git/ProjectPortfolio/assets/146741762/c9b37820-4e0b-4b87-83fd-4ceb6bf93c6f)
 
-- The format required was compared and the use of the Python library Pandas was required
-   Required Format:![image](https://github.com/HimAgarwal-Git/ProjectPortfolio/assets/146741762/bee215ad-7313-4a76-bf8a-7c0038908720)
+- ### Required Format:![image](https://github.com/HimAgarwal-Git/ProjectPortfolio/assets/146741762/bee215ad-7313-4a76-bf8a-7c0038908720)
+   after comparison, I realized the use of the Python library-Pandas was required.  
 
 **-_ Pandas- Basic exploration done followed by the `melt` function through which the columns were melted down into observations according to the demographic attributes._**
 - Join was performed to combine the data 
