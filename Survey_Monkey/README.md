@@ -34,4 +34,18 @@ I further explored the data. I remember using Google Forms and how forms present
 - Analyzed the respondent's background and provided tooltips for an easier peek into the composition of the population.
 The whole visualization was done with the motive to provide greater insight and help the viewer understand the data much better than viewing it on Google Forms or any other platform for say.
   [Visualizations Here](./Dashboard_GoogleAnalysis.pdf)
-  [PDF file](./Dashboard_GoogleAnalysis.pdf)  
+  [PDF file](./Dashboard_GoogleAnalysis.pdf)
+
+# Output
+### Raw File 
+[SurveyMonkeyOutput_RAWDATA.xlsx](https://github.com/HimAgarwal-Git/ProjectPortfolio/blob/main/Survey_Monkey/SurveyMonkeyOutput_RawDATA.xlsx)
+
+![image](https://github.com/HimAgarwal-Git/ProjectPortfolio/assets/146741762/0c707a8c-1b47-45b5-8b04-f47372d57c50)
+
+
+
+### Cleaned File 
+[Survey_Monkey/Data Survey Monkey Output Final.xlsx](https://github.com/HimAgarwal-Git/ProjectPortfolio/blob/main/Survey_Monkey/Data%20Survey%20Monkey%20Output%20Final.xlsx)
+
+![image](https://github.com/HimAgarwal-Git/ProjectPortfolio/assets/146741762/29a07964-8d5c-40ba-a0b5-9d7e6d46089d)
+
