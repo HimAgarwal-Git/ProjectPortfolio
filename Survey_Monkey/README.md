@@ -26,12 +26,12 @@ The data was to be converted into ![*Long data*](  ) from **Wide data**. The ana
  -How many answered the same? (Total number of unique answers)
  -Total number of respondents who answered a particular question. 
  - Scaling each response to its parent question
- -  [Python Script Here](/DATA_MANIPULATION.ipynb)
+ -  [Python Script Here](./DATA_MANIPULATION.ipynb)
 
 # Improvisations
 I further explored the data. I remember using Google Forms and how forms presented a summary of the data with some basic charts. I gained inspiration to provide some real analysis and use PowerBi to fetch the purpose:
 - Analyzed the total number of Blank responses per question
 - Analyzed the respondent's background and provided tooltips for an easier peek into the composition of the population.
 The whole visualization was done with the motive to provide greater insight and help the viewer understand the data much better than viewing it on Google Forms or any other platform for say.
-  [Visualizations Here](/Dashboard_GoogleAnalysis.pbix)
-  [PDF file](/Dashboard_GoogleAnalysis.pdf)  
+  [Visualizations Here](./Dashboard_GoogleAnalysis.pdf)
+  [PDF file](./Dashboard_GoogleAnalysis.pdf)  
