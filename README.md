@@ -1,3 +1,17 @@
 # ProjectPortfolio
-I created this repository in an attempt to showcase my data manipulation and wrangling skills. I have used Survey Monkey Data to clean a wide data and effectively present it in Long data.
-I have also made use of PowerBI to effectively showcase dataskill and crunching the entire form to various visualizations similar aka to Google Forms.
+
+I created this repository in an attempt to showcase my data analytics and data science skills. 
+
+
+
+
+## 1.**Data Wrangling @ SurveyMonkey **
+![SurveyMonnkey Company Logo](https://github.com/HimAgarwal-Git/ProjectPortfolio/assets/146741762/fb8097b3-269f-44ce-805d-86a51141d7ef)
+
+Skills Used:
+[x]Analysis and Visualizations using POWER BI
+[x]EXCEL
+[x]Python_Pandas
+[x]Data Wrangling
+Check out the entire details here: [Link to the project](Survey_Monkey/README)
+
